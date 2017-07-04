@@ -1,3 +1,4 @@
-*.exe
 Answers/
+.vscode/
+*.exe
 Sales_item.hpp
